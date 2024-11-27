@@ -10,3 +10,4 @@ C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\
 C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\refint\Bookify.Domain.dll
 C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\Bookify.Domain.pdb
 C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\ref\Bookify.Domain.dll
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\Bookify.Domain.csproj.AssemblyReference.cache
