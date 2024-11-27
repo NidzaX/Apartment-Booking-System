@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kH7AgOenajasyLpLsxJveysT1VBPfmrDwUZAa1Scy/LpZqDTESlkVL4Ay/G7ZcNavNpyVi6zG0VWjQnb2931wQ==",
+  "dgSpecHash": "AeXKUe5267qW8cvVbfIsqhKPTsM/0poXwVgP9nL1fIjsmoWotissQRjBOWb85u/P7Ypc8xYac9DoAluQAR85XA==",
   "success": true,
   "projectFilePath": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\nidza\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
