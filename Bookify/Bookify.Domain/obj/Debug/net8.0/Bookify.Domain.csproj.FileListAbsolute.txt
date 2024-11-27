@@ -1,0 +1,12 @@
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\bin\Debug\net8.0\Bookify.Domain.deps.json
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\bin\Debug\net8.0\Bookify.Domain.dll
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\bin\Debug\net8.0\Bookify.Domain.pdb
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\Bookify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\Bookify.Domain.AssemblyInfoInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\Bookify.Domain.AssemblyInfo.cs
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\Bookify.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\Bookify.Domain.sourcelink.json
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\Bookify.Domain.dll
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\refint\Bookify.Domain.dll
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\Bookify.Domain.pdb
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Domain\obj\Debug\net8.0\ref\Bookify.Domain.dll
