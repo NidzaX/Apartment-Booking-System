@@ -1,4 +1,5 @@
 ﻿using Bookify.Domain.Abstractions;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -31,3 +32,4 @@ namespace Bookify.Infrastructure.Repositories
             DbContext.Add(entity);
         }
     }
+}
