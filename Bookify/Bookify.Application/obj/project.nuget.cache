@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EB/6pSVL/6+4jofDWJWFQmud59W/jKImx9B1weVVEHqzk/XEgjxOqCA63gVCwTQj1wFxiNtFXwUdgW6o1oWvoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookify.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nidza\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\nidza\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\nidza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
