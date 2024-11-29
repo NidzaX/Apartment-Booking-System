@@ -3,112 +3,96 @@
   "WorkspaceRootPath": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\abstractions\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\abstractions\\behaviors\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\events\\bookingerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\events\\bookingerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\apartments\\searchapartments\\searchapartmentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\apartments\\searchapartments\\searchapartmentsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\apartments\\searchapartments\\searchapartmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\apartments\\searchapartments\\searchapartmentsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\apartments\\searchapartments\\apartmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\apartments\\searchapartments\\apartmentresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\events\\bookingcancelleddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\events\\bookingcancelleddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\apartments\\searchapartments\\addressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\apartments\\searchapartments\\addressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\events\\bookingcompleteddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\events\\bookingcompleteddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\bookings\\getbooking\\getbookingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\bookings\\getbooking\\getbookingqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\events\\bookingconfirmeddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\events\\bookingconfirmeddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\bookings\\getbooking\\bookingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\bookings\\getbooking\\bookingresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\events\\bookingrejecteddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\events\\bookingrejecteddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\abstractions\\data\\isqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\abstractions\\data\\isqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\events\\bookingreserveddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\events\\bookingreserveddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\bookings\\getbooking\\getbookingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\bookings\\getbooking\\getbookingquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\apartments\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\apartments\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\bookings\\reservebooking\\bookingreserveddomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\bookings\\reservebooking\\bookingreserveddomaineventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\pricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\pricingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\abstractions\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\abstractions\\email\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\shared\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\shared\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\bookings\\reservebooking\\reservebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\bookings\\reservebooking\\reservebookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\bookings\\reservebooking\\reservebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\bookings\\reservebooking\\reservebookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\abstractions\\clock\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\abstractions\\clock\\idatetimeprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\apartments\\apartmenterrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\apartments\\apartmenterrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\bookingerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\bookingerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\users\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\users\\usererrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\abstractions\\messaging\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\abstractions\\messaging\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\abstractions\\messaging\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\abstractions\\messaging\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2109BD38-6351-436D-8467-CA65E9379542}|Bookify.Application\\Bookify.Application.csproj|solutionrelative:bookify.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\shared\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\shared\\money.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\pricingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\pricingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\apartments\\iapartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\apartments\\iapartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\apartments\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\apartments\\description.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\daterange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\bookings\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\bookings\\bookingstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\users\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\users\\events\\usercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\users\\events\\usercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\users\\firstname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\users\\firstname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\users\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\users\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|c:\\users\\nidza\\onedrive\\desktop\\apartment-booking-system\\bookify\\bookify.domain\\users\\lastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\users\\lastname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,8 +102,295 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Money.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Shared\\Money.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Shared\\Money.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Shared\\Money.cs",
+              "RelativeToolTip": "Bookify.Domain\\Shared\\Money.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:56:41.168Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Behaviors\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Abstractions\\Behaviors\\LoggingBehavior.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Behaviors\\LoggingBehavior.cs*",
+              "RelativeToolTip": "Bookify.Application\\Abstractions\\Behaviors\\LoggingBehavior.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:54:19.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchApartmentsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Apartments\\SearchApartments\\SearchApartmentsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Apartments\\SearchApartments\\SearchApartmentsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Apartments\\SearchApartments\\SearchApartmentsQueryHandler.cs",
+              "RelativeToolTip": "Bookify.Application\\Apartments\\SearchApartments\\SearchApartmentsQueryHandler.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwBQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:41:11.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddressResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Apartments\\SearchApartments\\AddressResponse.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Apartments\\SearchApartments\\AddressResponse.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Apartments\\SearchApartments\\AddressResponse.cs",
+              "RelativeToolTip": "Bookify.Application\\Apartments\\SearchApartments\\AddressResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:39:48.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApartmentResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Apartments\\SearchApartments\\ApartmentResponse.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Apartments\\SearchApartments\\ApartmentResponse.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Apartments\\SearchApartments\\ApartmentResponse.cs",
+              "RelativeToolTip": "Bookify.Application\\Apartments\\SearchApartments\\ApartmentResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:39:12.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchApartmentsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Apartments\\SearchApartments\\SearchApartmentsQuery.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Apartments\\SearchApartments\\SearchApartmentsQuery.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Apartments\\SearchApartments\\SearchApartmentsQuery.cs",
+              "RelativeToolTip": "Bookify.Application\\Apartments\\SearchApartments\\SearchApartmentsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:37:38.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISqlConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
+              "RelativeToolTip": "Bookify.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:27:21.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetBookingQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\GetBooking\\GetBookingQueryHandler.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Bookings\\GetBooking\\GetBookingQueryHandler.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\GetBooking\\GetBookingQueryHandler.cs",
+              "RelativeToolTip": "Bookify.Application\\Bookings\\GetBooking\\GetBookingQueryHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:25:15.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\GetBooking\\BookingResponse.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Bookings\\GetBooking\\BookingResponse.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\GetBooking\\BookingResponse.cs",
+              "RelativeToolTip": "Bookify.Application\\Bookings\\GetBooking\\BookingResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:23:31.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetBookingQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\GetBooking\\GetBookingQuery.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Bookings\\GetBooking\\GetBookingQuery.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\GetBooking\\GetBookingQuery.cs",
+              "RelativeToolTip": "Bookify.Application\\Bookings\\GetBooking\\GetBookingQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T02:21:55.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Email\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Abstractions\\Email\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Email\\IEmailService.cs",
+              "RelativeToolTip": "Bookify.Application\\Abstractions\\Email\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:46:04.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingReservedDomainEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\ReserveBooking\\BookingReservedDomainEventHandler.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Bookings\\ReserveBooking\\BookingReservedDomainEventHandler.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\ReserveBooking\\BookingReservedDomainEventHandler.cs",
+              "RelativeToolTip": "Bookify.Application\\Bookings\\ReserveBooking\\BookingReservedDomainEventHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:42:59.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDateTimeProvider.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Clock\\IDateTimeProvider.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Abstractions\\Clock\\IDateTimeProvider.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Clock\\IDateTimeProvider.cs",
+              "RelativeToolTip": "Bookify.Application\\Abstractions\\Clock\\IDateTimeProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:35:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookingErrors.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\BookingErrors.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\BookingErrors.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\BookingErrors.cs",
+              "RelativeToolTip": "Bookify.Domain\\Bookings\\BookingErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:31:47.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApartmentErrors.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Apartments\\ApartmentErrors.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Apartments\\ApartmentErrors.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Apartments\\ApartmentErrors.cs",
+              "RelativeToolTip": "Bookify.Domain\\Apartments\\ApartmentErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:28:43.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserErrors.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\UserErrors.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Users\\UserErrors.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\UserErrors.cs",
+              "RelativeToolTip": "Bookify.Domain\\Users\\UserErrors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:26:48.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReserveBookingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandHandler.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandHandler.cs",
+              "RelativeToolTip": "Bookify.Application\\Bookings\\ReserveBooking\\ReserveBookingCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:17:33.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReserveBookingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\ReserveBooking\\ReserveBookingCommand.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Bookings\\ReserveBooking\\ReserveBookingCommand.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookings\\ReserveBooking\\ReserveBookingCommand.cs",
+              "RelativeToolTip": "Bookify.Application\\Bookings\\ReserveBooking\\ReserveBookingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:15:13.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "RelativeToolTip": "Bookify.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:09:38.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "RelativeToolTip": "Bookify.Application\\Abstractions\\Messaging\\ICommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:06:58.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "RelativeToolTip": "Bookify.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:04:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "RelativeToolTip": "Bookify.Application\\Abstractions\\Messaging\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T01:02:44.688Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
@@ -130,328 +401,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingErrors.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingErrors.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\Events\\BookingErrors.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingErrors.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\Events\\BookingErrors.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T19:23:04.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Result.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\Result.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\Result.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\Result.cs",
-              "RelativeToolTip": "Bookify.Domain\\Abstractions\\Result.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwDgAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T19:19:57.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Error.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\Error.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\Error.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\Error.cs",
-              "RelativeToolTip": "Bookify.Domain\\Abstractions\\Error.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T19:18:34.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookingCancelledDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingCancelledDomainEvent.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\Events\\BookingCancelledDomainEvent.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingCancelledDomainEvent.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\Events\\BookingCancelledDomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T19:15:30.773Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BookingCompletedDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingCompletedDomainEvent.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\Events\\BookingCompletedDomainEvent.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingCompletedDomainEvent.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\Events\\BookingCompletedDomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T19:15:20.281Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookingRejectedDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingRejectedDomainEvent.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\Events\\BookingRejectedDomainEvent.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingRejectedDomainEvent.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\Events\\BookingRejectedDomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T19:15:05.437Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookingConfirmedDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingConfirmedDomainEvent.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\Events\\BookingConfirmedDomainEvent.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingConfirmedDomainEvent.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\Events\\BookingConfirmedDomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T19:14:50.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Apartment.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Apartments\\Apartment.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Apartments\\Apartment.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Apartments\\Apartment.cs",
-              "RelativeToolTip": "Bookify.Domain\\Apartments\\Apartment.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T19:10:58.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Booking.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Booking.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\Booking.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Booking.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\Booking.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAQwIAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:39:03.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookingReservedDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingReservedDomainEvent.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\Events\\BookingReservedDomainEvent.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\Events\\BookingReservedDomainEvent.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\Events\\BookingReservedDomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T19:04:14.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Currency.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Shared\\Currency.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Shared\\Currency.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Shared\\Currency.cs",
-              "RelativeToolTip": "Bookify.Domain\\Shared\\Currency.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:57:17.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Money.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Shared\\Money.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Shared\\Money.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Shared\\Money.cs",
-              "RelativeToolTip": "Bookify.Domain\\Shared\\Money.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:56:41.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PricingDetails.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\PricingDetails.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\PricingDetails.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\PricingDetails.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\PricingDetails.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:54:49.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Description.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Apartments\\Description.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Apartments\\Description.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Apartments\\Description.cs",
-              "RelativeToolTip": "Bookify.Domain\\Apartments\\Description.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:57:17.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PricingService.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\PricingService.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\PricingService.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\PricingService.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\PricingService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:50:06.341Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DateRange.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\DateRange.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\DateRange.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\DateRange.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\DateRange.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:42:54.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BookingStatus.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\BookingStatus.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Bookings\\BookingStatus.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Bookings\\BookingStatus.cs",
-              "RelativeToolTip": "Bookify.Domain\\Bookings\\BookingStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:41:43.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IApartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Apartments\\IApartmentRepository.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Apartments\\IApartmentRepository.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Apartments\\IApartmentRepository.cs",
-              "RelativeToolTip": "Bookify.Domain\\Apartments\\IApartmentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:20:36.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\IUnitOfWork.cs",
-              "RelativeToolTip": "Bookify.Domain\\Abstractions\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:19:08.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Users\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\IUserRepository.cs",
-              "RelativeToolTip": "Bookify.Domain\\Users\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:17:38.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "UserCreatedDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
-              "RelativeToolTip": "Bookify.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:13:01.661Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\Entity.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\Entity.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\Entity.cs",
-              "RelativeToolTip": "Bookify.Domain\\Abstractions\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Bookify.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Bookify.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:09:48.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IDomainEvent.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\IDomainEvent.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\IDomainEvent.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Abstractions\\IDomainEvent.cs",
-              "RelativeToolTip": "Bookify.Domain\\Abstractions\\IDomainEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:07:54.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Email.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\Email.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Users\\Email.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\Email.cs",
-              "RelativeToolTip": "Bookify.Domain\\Users\\Email.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T18:01:29.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "LastName.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\LastName.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Users\\LastName.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\LastName.cs",
-              "RelativeToolTip": "Bookify.Domain\\Users\\LastName.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:58:35.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FirstName.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\FirstName.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Users\\FirstName.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\FirstName.cs",
-              "RelativeToolTip": "Bookify.Domain\\Users\\FirstName.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:58:27.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\User.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Users\\User.cs",
-              "ToolTip": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Domain\\Users\\User.cs",
-              "RelativeToolTip": "Bookify.Domain\\Users\\User.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T17:57:14.291Z"
+              "WhenOpened": "2024-11-28T23:54:40.541Z",
+              "EditorCaption": ""
             }
           ]
         }
