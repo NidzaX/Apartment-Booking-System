@@ -1,0 +1,6 @@
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Infrastructure\obj\Debug\net8.0\Bookify.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Infrastructure\obj\Debug\net8.0\Bookify.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Infrastructure\obj\Debug\net8.0\Bookify.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Infrastructure\obj\Debug\net8.0\Bookify.Infrastructure.AssemblyInfo.cs
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Infrastructure\obj\Debug\net8.0\Bookify.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\Bookify.Infrastructure\obj\Debug\net8.0\Bookify.Infrastructure.sourcelink.json
