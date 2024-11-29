@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "og4mHfM/WkWxl3dn/1TOugGqWyL1NZC2foNRQWulx8zeEFSsrIQilbXMp9XwgzYSrjMuscqVDzkY/czQX2w9XQ==",
+  "dgSpecHash": "FKbXya8T9PEaGuh/1qnsA4RTzsfzozC19gaaG/u+d4PYGshrIfRhnKxOhCVU6xNbSMAza3f0Ccr3zg2Ra2Kcvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\Bookify.Application\\Bookify.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nidza\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\nidza\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\nidza\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\nidza\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\nidza\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\nidza\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
