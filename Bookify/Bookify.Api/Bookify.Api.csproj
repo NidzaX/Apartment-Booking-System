@@ -6,11 +6,17 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>0c3e4839-2fd1-4c80-9b84-1dbdfd166c2d</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.19.6" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bookify.Application\Bookify.Application.csproj" />
+    <ProjectReference Include="..\Bookify.Infrastructure\Bookify.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
