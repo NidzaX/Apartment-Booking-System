@@ -35,6 +35,7 @@ namespace Bookify.Infrastructure
                 await PublishDomainEventsAsync();
 
                 return result;
+
             }
             catch(DbUpdateConcurrencyException ex)
             {

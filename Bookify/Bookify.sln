@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookify.Domain", "Bookify.D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookify.Application", "Bookify.Application\Bookify.Application.csproj", "{2109BD38-6351-436D-8467-CA65E9379542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Infrastructure", "Bookify.Infrastructure\Bookify.Infrastructure.csproj", "{560B555F-9E1E-46D8-ACD6-DE766D65747A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookify.Infrastructure", "Bookify.Infrastructure\Bookify.Infrastructure.csproj", "{560B555F-9E1E-46D8-ACD6-DE766D65747A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Api", "Bookify.Api\Bookify.Api.csproj", "{B197C5AD-9907-42B1-BFA7-6ADE8F617BEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,10 @@ Global
 		{560B555F-9E1E-46D8-ACD6-DE766D65747A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{560B555F-9E1E-46D8-ACD6-DE766D65747A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{560B555F-9E1E-46D8-ACD6-DE766D65747A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B197C5AD-9907-42B1-BFA7-6ADE8F617BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B197C5AD-9907-42B1-BFA7-6ADE8F617BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B197C5AD-9907-42B1-BFA7-6ADE8F617BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B197C5AD-9907-42B1-BFA7-6ADE8F617BEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +45,7 @@ Global
 		{2C3F4B53-6490-4EF4-84B3-E1AB4D4E8747} = {14A99DAC-8338-48DD-B23D-AD904AC56698}
 		{2109BD38-6351-436D-8467-CA65E9379542} = {14A99DAC-8338-48DD-B23D-AD904AC56698}
 		{560B555F-9E1E-46D8-ACD6-DE766D65747A} = {14A99DAC-8338-48DD-B23D-AD904AC56698}
+		{B197C5AD-9907-42B1-BFA7-6ADE8F617BEC} = {14A99DAC-8338-48DD-B23D-AD904AC56698}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7FA4F75F-83E5-4638-A7D0-2BF269D1387A}
