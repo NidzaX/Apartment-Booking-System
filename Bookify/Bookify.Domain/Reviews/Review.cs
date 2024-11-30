@@ -30,9 +30,9 @@ namespace Bookify.Domain.Reviews
         }
 
 
-        //private Review()
-        //{
-        //}
+        private Review()
+        {
+        }
 
         public Guid ApartmentId { get; private set; }
 
