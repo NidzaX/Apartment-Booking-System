@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiOkX/sBQU8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nidza\\OneDrive\\Desktop\\Apartment-Booking-System\\Bookify\\src\\Bookify.Domain\\Bookify.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nidza\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

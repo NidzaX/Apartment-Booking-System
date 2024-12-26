@@ -1,33 +1,85 @@
 name: dockercompose17383296342362721847
 services:
-  bookify.api:
-    build:
-      context: C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify
-      dockerfile: Bookify.Api/Dockerfile
+  bookify-db:
+    container_name: Bookify.Db
     environment:
-      ASPNETCORE_ENVIRONMENT: Development
-      ASPNETCORE_HTTP_PORTS: "8080"
-      ASPNETCORE_HTTPS_PORTS: "8081"
-    image: bookifyapi
+      POSTGRES_DB: bookify
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\.containers\database
+        target: /var/lib/postgresql/data
+        bind:
+          create_host_path: true
+  bookify-idp:
+    container_name: Bookify.Identity
+    environment:
+      KEYCLOAK_IMPORT: /tmp/bookify-realm-export.json
+      KEYCLOAK_PASSWORD: admin
+      KEYCLOAK_USER: admin
+    image: jboss/keycloak:latest
     networks:
       default: null
     ports:
       - mode: ingress
         target: 8080
+        published: "18080"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\.containers\identity
+        target: /opt/jboss/keycloak/standalone/data
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\.files\bookify-realm-export.json
+        target: /tmp/bookify-realm-export.json
+        bind:
+          create_host_path: true
+  bookify.api:
+    build:
+      context: C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify
+      dockerfile: src/Bookify.Api/Dockerfile
+    container_name: Bookify.Api
+    depends_on:
+      bookify-db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "5000"
+      ASPNETCORE_HTTPS_PORTS: "5001"
+    image: bookifyapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5000
+        published: "5000"
         protocol: tcp
       - mode: ingress
-        target: 8081
+        target: 5001
+        published: "5001"
         protocol: tcp
     volumes:
       - type: bind
         source: C:\Users\nidza\AppData\Roaming/Microsoft/UserSecrets
-        target: /home/app/.microsoft/usersecrets
+        target: /root/.microsoft/usersecrets
         read_only: true
         bind:
           create_host_path: true
       - type: bind
         source: C:\Users\nidza\AppData\Roaming/ASP.NET/Https
-        target: /home/app/.aspnet/https
+        target: /root/.aspnet/https
         read_only: true
         bind:
           create_host_path: true

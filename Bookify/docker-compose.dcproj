@@ -3,8 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <DockerPublishLocally>False</DockerPublishLocally>
-    <ProjectGuid>2d8a68f8-fc2c-440a-af5c-89236e21b57d</ProjectGuid>
+    <ProjectGuid>add5af21-a432-4b22-ba2a-479ae85f98fc</ProjectGuid>
     <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
     <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/swagger</DockerServiceUrl>
     <DockerServiceName>bookify.api</DockerServiceName>
