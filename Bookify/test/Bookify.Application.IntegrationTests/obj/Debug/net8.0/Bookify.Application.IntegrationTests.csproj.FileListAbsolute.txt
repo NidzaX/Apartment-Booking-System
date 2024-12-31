@@ -1,0 +1,8 @@
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Application.IntegrationTests\bin\Debug\net8.0\CoverletSourceRootsMapping_Bookify.Application.IntegrationTests
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Application.IntegrationTests\obj\Debug\net8.0\Bookify.Application.IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Application.IntegrationTests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Application.IntegrationTests\obj\Debug\net8.0\Bookify.Application.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Application.IntegrationTests\obj\Debug\net8.0\Bookify.Application.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Application.IntegrationTests\obj\Debug\net8.0\Bookify.Application.IntegrationTests.AssemblyInfo.cs
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Application.IntegrationTests\obj\Debug\net8.0\Bookify.Application.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Application.IntegrationTests\obj\Debug\net8.0\Bookify.Application.IntegrationTests.sourcelink.json

@@ -1,0 +1,8 @@
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Api.FunctionalTests\bin\Debug\net8.0\CoverletSourceRootsMapping_Bookify.Api.FunctionalTests
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Api.FunctionalTests\obj\Debug\net8.0\Bookify.Api.FunctionalTests.csproj.AssemblyReference.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Api.FunctionalTests\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Api.FunctionalTests\obj\Debug\net8.0\Bookify.Api.FunctionalTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Api.FunctionalTests\obj\Debug\net8.0\Bookify.Api.FunctionalTests.AssemblyInfoInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Api.FunctionalTests\obj\Debug\net8.0\Bookify.Api.FunctionalTests.AssemblyInfo.cs
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Api.FunctionalTests\obj\Debug\net8.0\Bookify.Api.FunctionalTests.csproj.CoreCompileInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.Api.FunctionalTests\obj\Debug\net8.0\Bookify.Api.FunctionalTests.sourcelink.json

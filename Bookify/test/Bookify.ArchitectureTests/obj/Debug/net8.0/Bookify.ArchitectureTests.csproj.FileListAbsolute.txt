@@ -1,0 +1,7 @@
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.ArchitectureTests\bin\Debug\net8.0\CoverletSourceRootsMapping_Bookify.ArchitectureTests
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.ArchitectureTests\obj\Debug\net8.0\Bookify.ArchitectureTests.csproj.AssemblyReference.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.ArchitectureTests\obj\Debug\net8.0\Bookify.ArchitectureTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.ArchitectureTests\obj\Debug\net8.0\Bookify.ArchitectureTests.AssemblyInfoInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.ArchitectureTests\obj\Debug\net8.0\Bookify.ArchitectureTests.AssemblyInfo.cs
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.ArchitectureTests\obj\Debug\net8.0\Bookify.ArchitectureTests.csproj.CoreCompileInputs.cache
+C:\Users\nidza\OneDrive\Desktop\Apartment-Booking-System\Bookify\test\Bookify.ArchitectureTests\obj\Debug\net8.0\Bookify.ArchitectureTests.sourcelink.json
